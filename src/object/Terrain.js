@@ -8,7 +8,7 @@ class Terrain {
         this.width = size
         this.height = size
 
-        this.tileSize = 50
+        this.tileSize = 100
 
         this.tiles = []
 
